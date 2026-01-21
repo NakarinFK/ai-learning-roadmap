@@ -1,0 +1,21 @@
+# Roadmap
+
+## Phase 0 — Foundation
+- [ ] Mental model: AI vs ML vs DL vs GenAI
+- [ ] Training vs Inference
+- [ ] Model vs Knowledge vs Context
+
+## Phase 1 — LLM Basics
+- [ ] Tokens & context window
+- [ ] Why hallucination happens
+- [ ] Basic evaluation mindset (rubrics)
+
+## Phase 2 — Prompting & Systems Thinking
+- [ ] Prompt patterns & constraints
+- [ ] Critique checklist
+- [ ] Intro to RAG concept (no code)
+
+## Phase 3 — Practice
+- [ ] Mini-project 01: Summarization rubric
+- [ ] Mini-project 02: Q&A notes template
+- [ ] Mini-project 03: Simple evaluation scorecard
